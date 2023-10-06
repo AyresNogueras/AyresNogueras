@@ -1,8 +1,8 @@
-<h1>Hi, I'm Ayres! <br/><a href="https://github.com/ayresnogueras">Novice Programmer</a>, <a href="www.linkedin.com/in/ayres-nogueras-28b032206">Cybersecurity Student</a>
+<h1>Hi, I'm Ayres!  <br/><a href="www.linkedin.com/in/ayres-nogueras-28b032206">Cybersecurity Student</a>,  <a href="https://github.com/ayresnogueras">Novice Programmer</a> 
 <img src="https://tryhackme-badges.s3.amazonaws.com/ayresantonio.png" alt="TryHackMe">
 
 
-<h2>👨‍💻 Cybersecurity/Information Assurance Projects:</h2>
+<h2>👨‍💻 Cybersecurity/Programming Projects:</h2>
 
 - <b>Python</b>
   - [Python Port Scanner](https://github.com/AyresNogueras/Python-Practice)
