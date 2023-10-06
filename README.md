@@ -6,7 +6,7 @@
 
 - <b>Python</b>
   - [Python Port Scanner](https://github.com/AyresNogueras/Python-Practice)
-  - [Python Band Name Generator](https://github.com/AyresNogueras/Python-Band-Name-Generator/new/main?readme=1#python-band-name-generator)
+  - [Python Band Name Generator](https://github.com/AyresNogueras/Python-Band-Name-Generator/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
 LinkedIn: www.linkedin.com/in/ayres-nogueras-28b032206
