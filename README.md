@@ -5,8 +5,9 @@
 <h2>👨‍💻 Cybersecurity/Programming Projects:</h2>
 
 - <b>Python</b>
-  - [Python Port Scanner](https://github.com/AyresNogueras/Python-Practice)
-  - [Python Band Name Generator](https://github.com/AyresNogueras/Python-Band-Name-Generator/tree/main)
+  - [Port Scanner](https://github.com/AyresNogueras/Python-Practice)
+  - [Band Name Generator](https://github.com/AyresNogueras/Python-Band-Name-Generator)
+  - [Tip Calculator](https://github.com/AyresNogueras/Python-Tip-Calculator)
 
 <h2> 🤳 Connect with me:</h2>
 LinkedIn: www.linkedin.com/in/ayres-nogueras-28b032206
